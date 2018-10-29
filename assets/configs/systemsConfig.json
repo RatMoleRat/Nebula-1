@@ -1,0 +1,12 @@
+{
+  "standard": {
+    "constantAllies": [
+      {
+        "hull": "Nebula:nebulaMediumShip",
+        "items": "core:shotGun 0.86|core:plasmaGun",
+        "money": 120,
+        "density": 2
+      }
+    ]
+  }
+}

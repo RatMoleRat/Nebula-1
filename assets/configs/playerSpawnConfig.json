@@ -1,0 +1,7 @@
+{
+  "Hermit": {
+    "hull": "Nebula:nebulaMediumShip",
+    "items": "15*rep core:lightArmor-1",
+    "money": 300
+  }
+}
