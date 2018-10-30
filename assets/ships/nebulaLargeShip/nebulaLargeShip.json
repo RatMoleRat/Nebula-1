@@ -2,7 +2,7 @@
   "size": 0.75,
   "maxLife": 85,
   "type": "std",
-  "price": 340,
+  "price": 2250,
   "ability": {
     "type": "knockBack",
     "force": 450,
