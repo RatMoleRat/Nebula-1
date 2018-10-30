@@ -1,12 +1,17 @@
 {
   "Hermit": {
     "hull": "Nebula:nebulaMediumShip",
-    "items": "15*rep core:lightArmor-1 core:waveGun-1 core:smallShield-1",
+    "items": "15*rep core:lightArmor-1 Nebula:clawGun-1 core:smallShield-1",
     "money": 300
   },
   "Horseshoe": {
     "hull": "Nebula:nebulaLargeShip",
     "items": "20*rep core:mediumArmor-1 Nebula:clawGun-1 core:bigShield-1",
     "money": 10
+  },
+  "King": {
+    "hull": "Nebula:nebulaCapitalShip",
+    "items": "20*rep core:advancedArmor-1 Nebula:clawGun-1 core:advancedShield-1",
+    "money": 0
   }
 }

@@ -5,13 +5,19 @@
         "hull": "Nebula:nebulaMediumShip",
         "items": "core:shotGun 0.86|core:plasmaGun",
         "money": 120,
-        "density": 2
+        "density": 3
       },
       {
         "hull": "Nebula:nebulaLargeShip",
         "items": "core:clawGun 0.99|core:plasmaGun",
         "money": 100,
         "density": 2
+      },
+      {
+        "hull": "Nebula:nebulaCapitalShip",
+        "items": "core:clawGun",
+        "money": 50,
+        "density": 1
       }
     ]
   }
