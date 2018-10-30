@@ -1,11 +1,11 @@
 {
   "hull": "Nebula:nebulaStation",
-  "items": "core:blaster core:plasmaGun",
+  "items": "",
 
   "guard":
   {
-    "hull": "Nebula:nebulaMediumShip",
-    "items": "core:fixedGun core:fixedShotGun core:mediumArmor+core:heavyArmor core:shield+core:bigShield",
-    "density": 3
+    "hull": "Nebula:nebulaLargeShip",
+    "items": "Nebula:clawGun core:mediumArmor+core:heavyArmor core:advancedShield+core:bigShield",
+    "density": 2
   }
 }

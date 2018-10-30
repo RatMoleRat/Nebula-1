@@ -1,0 +1,6 @@
+{
+  "projectile": "claw",
+  "infinite": true,
+  "size": 30,
+  "iconName": "clawClip"
+}
