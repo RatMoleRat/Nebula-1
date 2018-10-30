@@ -12,13 +12,13 @@
   "engine": "Nebula:nebulaEngine",
   "gunSlots": [
     {
-      "position": ".9 .25",
-      "isUnderneathHull": true,
+      "position": "0.9 .25",
+      "isUnderneathHull": false,
       "allowsRotation": true
     },
     {
-      "position": "0.9 0.75",
-      "isUnderneathHull": true,
+      "position": "0.9 0.9",
+      "isUnderneathHull": false,
       "allowsRotation": true
     }
   ],
