@@ -2,8 +2,14 @@
   "standard": {
     "constantAllies": [
       {
+        "hull": "Nebula:nebulaSmallShip",
+        "items": "core:clawGun 0.5|core:gun",
+        "money": 200,
+        "density": 4
+      },
+      {
         "hull": "Nebula:nebulaMediumShip",
-        "items": "core:shotGun 0.86|core:plasmaGun",
+        "items": "core:clawGun 0.86|core:gun",
         "money": 120,
         "density": 3
       },
