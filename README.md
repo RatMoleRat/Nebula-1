@@ -1,11 +1,13 @@
-<<<<<<< HEAD
 # Nebula
-=======
-# Nebula
-A module for Destination Sol that adds a new faction.
+A module for Destination Sol that adds a new faction for player use.
 
-Currently has a station, capital ship, large ship, and medium ship, as well as a custom gun and projectile.
+Complete with a station, capital ship, large ship, medium ship, and small ship, as well as a custom gun and projectile.
 
-![picture of capital ship in game](https://github.com/RatMoleRat/Nebula/blob/master/images/CapitalShipFiring.PNG)
-![picture of collision mesh for the capital ship](https://github.com/RatMoleRat/Nebula/blob/master/images/CollisionScreenshot3.PNG)
->>>>>>> 020d8ee6b95ffd66f53471cdd896e7b551005fab
+-Small ship ("Fiddler")
+![picture of small ship in game](https://github.com/RatMoleRat/Nebula-1/blob/master/images/SmallShip.PNG)
+-Medium ship ("Hermit")
+![picture of medium ship in game](https://github.com/RatMoleRat/Nebula-1/blob/master/images/InGameScreenShotMedium.PNG)
+-Large ship ("Horseshoe")
+![picture of large ship in game](https://github.com/RatMoleRat/Nebula-1/blob/master/images/LargeShip.PNG)
+-Capital ship ("King")
+![picture of capital ship in game](https://github.com/RatMoleRat/Nebula-1/blob/master/images/CapitalShipFiring.PNG)
