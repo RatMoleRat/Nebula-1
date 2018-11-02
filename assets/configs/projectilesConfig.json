@@ -1,0 +1,19 @@
+{
+  "claw": {
+    "dmg": 17,
+    "dmgType": "bullet",
+    "spdLen": 6,
+
+    "tex": "Nebula:claw",
+    "texSz": 0.25,
+
+    "collisionEffect": {
+      "effectFile": "core:knockBack",
+      "size": 0.15,
+      "tex": "core:fire",
+      "tint": "120 210 90"
+    },
+
+    "collisionSound": "core:rocketCollision"
+  }
+}

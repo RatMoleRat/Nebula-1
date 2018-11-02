@@ -1,0 +1,11 @@
+{
+    "id" : "Nebula",
+    "version" : "0.1.0",
+    "displayName" : "Nebula Faction",
+    "description" : "Content related to Nebula Faction.",
+    "dependencies" :  [
+        {
+            "id" : "core"
+        }
+    ]
+}

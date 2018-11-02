@@ -1,0 +1,19 @@
+{
+  "maxAngleVar": 15,
+  "angleVarDamp": 6,
+  "angleVarPerShot": 5,
+  "timeBetweenShots": 1,
+  "reloadTime": 2,
+  "price": 70,
+  "clipName": "Nebula:clawClip",
+  "gunLength": 0.25,
+  "texLenPerc": 0.7,
+  "displayName": "Claw Gun",
+  "lightOnShot": true,
+  "shootSounds": [
+    "core:waveGun"
+  ],
+  "reloadSounds": [
+    "core:gunReload"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "standard": {
+    "constantAllies": [
+      {
+        "hull": "Nebula:nebulaSmallShip",
+        "items": "core:clawGun 0.5|core:gun",
+        "money": 200,
+        "density": 4
+      },
+      {
+        "hull": "Nebula:nebulaMediumShip",
+        "items": "core:clawGun 0.86|core:gun",
+        "money": 120,
+        "density": 3
+      },
+      {
+        "hull": "Nebula:nebulaLargeShip",
+        "items": "core:clawGun 0.99|core:plasmaGun",
+        "money": 100,
+        "density": 2
+      },
+      {
+        "hull": "Nebula:nebulaCapitalShip",
+        "items": "core:clawGun",
+        "money": 50,
+        "density": 1
+      }
+    ]
+  }
+}
