@@ -1,0 +1,11 @@
+{
+  "hull": "Nebula:nebulaStation",
+  "items": "",
+
+  "guard":
+  {
+    "hull": "Nebula:nebulaLargeShip",
+    "items": "Nebula:clawGun core:mediumArmor+core:heavyArmor core:advancedShield+core:bigShield",
+    "density": 2
+  }
+}
