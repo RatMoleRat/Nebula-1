@@ -1,5 +1,4 @@
 {
-  //TODO: fix location of gun on ship
   "size": 0.35,
   "maxLife": 7,
   "type": "std",
@@ -13,7 +12,7 @@
   "engine": "Nebula:nebulaEngine",
   "gunSlots": [
     {
-      "position": "0.5 0.2",
+      "position": "0.5 0.3",
       "isUnderneathHull": false,
       "allowsRotation": true
     },
